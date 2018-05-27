@@ -1,6 +1,6 @@
 {
-  "short_name": "Eventwall",
-  "name": "Displaying comments for events",
+  "short_name": "ProjectName",
+  "name": "Insert Project Name Here",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
