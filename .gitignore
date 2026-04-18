@@ -1,25 +1,14 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
+# Go
+backend/tmp/
 
-# dependencies
-client/node_modules
+# Node
+frontend/node_modules/
+frontend/dist/
 
-# testing
-/coverage
+# Env
+.env
 
-# production
-/build
-client/public/bundle.js
-
-# misc
+# Editor
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
 .session.vim
 *.swp
